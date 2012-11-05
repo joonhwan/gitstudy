@@ -5,6 +5,7 @@ gitstudy
 Test Repo for learning Git.
 
 이 프로젝트는 git을 공부하기 위해 사용한 원격 저장소입니다.
+배우다가 생각난 내용이 있다면 아래에 추가합니다.
 
 배운내용 
 -------
